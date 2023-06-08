@@ -1,6 +1,6 @@
 # DeSTSeg
 
-Official PyTorch implementation of [DeSTSeg](https://arxiv.org/abs/2211.11317) - CVPR 2023
+Official PyTorch implementation of [DeSTSeg]([https://arxiv.org/abs/2211.11317](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.html)) - CVPR 2023
 
 ## Datasets
 
@@ -47,10 +47,11 @@ Download pretrained checkpoints [here](https://www.icloud.com.cn/iclouddrive/051
 ## Citation
 
 ```
-@InProceedings{Zhang2023destseg,
-    author    = {DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection},
-    title     = {Zhang, Xuan and Li, Shiyu and Li, Xi and Huang, Ping and Shan, Jiulong and Chen, Ting},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year      = {2023},
+@inproceedings{zhang2023destseg,
+  title={DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection},
+  author={Zhang, Xuan and Li, Shiyu and Li, Xi and Huang, Ping and Shan, Jiulong and Chen, Ting},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3914--3923},
+  year={2023}
 }
 ```
