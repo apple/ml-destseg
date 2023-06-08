@@ -1,7 +1,6 @@
 # DeSTSeg
 
-Official PyTorch implementation of [DeSTSeg](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student_Teacher_for_Anomaly_Detection_CVPR_2023_paper.html) - CVPR 2023
-
+Official PyTorch implementation of [DeSTSeg](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.html) - CVPR 2023
 ## Datasets
 
 We use the MVTec AD dataset for experiments. To simulate anomalous image, the Describable Textures Dataset (DTD) is also adopted in our work. Users can run the **download_dataset.sh** script to download them directly.
