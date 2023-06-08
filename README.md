@@ -1,6 +1,6 @@
 # DeSTSeg
 
-Official PyTorch implementation of [DeSTSeg]([https://arxiv.org/abs/2211.11317](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.html)) - CVPR 2023
+Official PyTorch implementation of [DeSTSeg]([https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.html]) - CVPR 2023
 
 ## Datasets
 
