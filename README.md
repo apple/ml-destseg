@@ -41,7 +41,7 @@ python eval.py --gpu_id 0 --num_workers 16
 
 ## Pretrained Checkpoints
 
-Download pretrained checkpoints [here](https://www.icloud.com.cn/iclouddrive/051C6C9EWaC9e6XnLqtmghX0A#saved%5Fmodel) and put the checkpoints under `<project_dir>/saved_model/`.
+Download pretrained checkpoints [here](https://www.icloud.com.cn/iclouddrive/0a3OPg_3wcMs38yDpWNRnRW9Q#saved%5Fmodel) and put the checkpoints under `<project_dir>/saved_model/`.
 
 ## Citation
 
